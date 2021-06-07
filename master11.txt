@@ -1,2 +1,2 @@
-the quick brown fox jumped over the lazy dog. local line01
+the quick brown fox jumped over the lazy dog. local line01; // master edit;
 the quick brown fox jumped over the lazy dog. local line02; // master addition
